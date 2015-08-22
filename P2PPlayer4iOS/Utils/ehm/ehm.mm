@@ -2,7 +2,7 @@
 //  ehm.mm
 //  BaiduVideo-iPad
 //
-//  Created by wangwei34 on 13-5-20.
+//  Created by Wayne W on 13-5-20.
 //  Copyright (c) 2013年 Baidu. All rights reserved.
 //
 

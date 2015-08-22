@@ -2,8 +2,8 @@
 //  ehm.h
 //  VideoIphone
 //
-//  Created by wangwei34 on 13-5-16.
-//  Copyright (c) 2013年 com.baidu. All rights reserved.
+//  Created by Wayne W on 13-5-16.
+//  Copyright (c) 2013年 github.com/henern All rights reserved.
 //
 
 #ifndef VideoIphone_ehm_h
