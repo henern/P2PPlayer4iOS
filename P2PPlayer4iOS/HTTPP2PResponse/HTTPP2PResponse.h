@@ -3,7 +3,7 @@
 //  VideoIphone
 //
 //  Created by Wayne W on 13-7-20.
-//  Copyright (c) 2013年 com.baidu. All rights reserved.
+//  Copyright (c) 2013年 github.com/henern All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
